@@ -43,7 +43,7 @@ body, p, h1, h2, h3, h4, h5, h6, span, div {
 
 .swal2-title,
 .swal2-content {
-    color: pink !important; /* Ensures pink color for these elements */
+    color: #ff1493 !important; /* Ensures pink color for these elements */
 }
 
 .swal2-popup {
@@ -55,7 +55,7 @@ header h2 {
     font-size: 80px;
     text-align: center;
     margin-bottom: 30px;
-    color: pink; /* Changed to pink */
+    color: #ff1493; /* Changed to pink */
 }
 
 header h4 {
