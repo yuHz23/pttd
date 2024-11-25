@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Something make you smile",
+    introTitle: 'Yuie',
+    introDesc: `55 ngày không gặp em bắt đầu nhớ Unie rồi đó`,
+    btnIntro: '^^HyHàiHước^^',
+    title: 'Hay là 2 sắp nghỉ chơi với em rồi 😫',
+    desc: 'Có hay không việc em sẽ khiến 2 vui hơn nhỉ 😉',
+    btnYes: 'Thử 2 xem',
+    btnNo: 'M cúc liền',
+    question: 'Có hay không việc mình đi chơi vào 1 ngày đẹp trời 2 nhờ',
+    btnReply: 'M cúc luôn',
+    reply: 'Đi thì đi',
+    mess: 'Em biết 2 muốn đi chơi xõa stress sau deadline mà 😗',
+    messDesc: 'Cho 2 chọn ngày trong năm nay luôn. Bonus cho 2 1 đêm Giáng Sinh dui ơi là dui',
+    btnAccept: 'T đi được chưa 😒',
+    messLink: 'https://www.messenger.com/t/100081271490586/?locale=vi_VN' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
