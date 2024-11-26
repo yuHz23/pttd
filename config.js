@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'M biết câu trả lời mà',
     reply: 'Unie hứa',
     mess: 'Em biết unie sẽ nói vậy mà 😗',
-    messDesc: 'Em hứa sẽ làm unie dui ơi là dui ó đặc biệt là đên Noel 😃',
+    messDesc: 'Em hứa sẽ làm unie dui ơi là dui ó đặc biệt là hôm Noel ó 😃',
     btnAccept: 'Unie chắc chắn đi 😒',
     messLink: 'https://www.messenger.com/t/100081271490586/?locale=vi_VN' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
