@@ -61,7 +61,7 @@ header h2 {
 header h4 {
     font-family: 'Pacifico';
     text-align: center;
-    color: cyan; /* Changed to pink */
+    color: neon-blue; /* Changed to pink */
 }
 
 @media only screen and (max-width: 500px) {
